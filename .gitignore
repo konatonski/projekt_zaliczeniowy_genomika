@@ -10,3 +10,5 @@ mmseqs_output_all_seqs.fasta
 mmseqs_output_cluster.tsv
 mmseqs_output_rep_seq.fasta
 chosen_strains_from_supplement.csv
+mmseqs
+processing/downloads
