@@ -1,0 +1,12 @@
+filtered_gene_families
+data
+raw_gene_families
+datasets.exe
+dataformat.exe
+retriving_strains.ipynb
+scardovia.zip
+all_proteins_combined.fasta
+mmseqs_output_all_seqs.fasta
+mmseqs_output_cluster.tsv
+mmseqs_output_rep_seq.fasta
+chosen_strains_from_supplement.csv
