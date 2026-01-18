@@ -6,7 +6,7 @@ from Bio import Entrez
 # CONFIG
 input_csv = "accessions.csv"
 output_dir = "downloads"
-Entrez.email = "kornelnatonski@gmail.com" # CHANGE THIS
+Entrez.email = "kornelnatonski@gmail.com" 
 
 os.makedirs(output_dir, exist_ok=True)
 df = pd.read_csv(input_csv)

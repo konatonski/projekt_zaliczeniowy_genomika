@@ -12,3 +12,6 @@ mmseqs_output_rep_seq.fasta
 chosen_strains_from_supplement.csv
 mmseqs
 processing/downloads
+processing/tmp_mmseqs
+mafft-7.526-linux.tgz
+mafft-linux64

@@ -9,7 +9,7 @@ threads = multiprocessing.cpu_count()
 print(f"running mmseqs on {threads} CPU cores")
 
 cmd = [
-    "./mmseqs/bin/mmseqs", "easy-cluster",
+    "../mmseqs/bin/mmseqs", "easy-cluster",
     input_file,
     output_prefix,
     tmp_dir,
