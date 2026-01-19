@@ -15,3 +15,5 @@ processing/downloads
 processing/tmp_mmseqs
 mafft-7.526-linux.tgz
 mafft-linux64
+FastTree
+logs
